@@ -2,8 +2,8 @@
 
 how the josh sir.!!!!!
 
-'''
-javascript
-console.log("hello World");
 
-'''
+<!-- javascript -->
+
+
+console.log("hello World");
